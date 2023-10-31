@@ -8,4 +8,4 @@ Meu nome é João Pedro Motta
 
 ![](https://media.tenor.com/pMhSj9NfCXsAAAAd/saul-goodman-better-call-saul.gif)
 
-[Alura] (https://www.alura.com.br/)
+Estou deenvolvendo projetos na plataforma [Alura](https://www.alura.com.br/)
