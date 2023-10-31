@@ -6,6 +6,6 @@ Meu nome é João Pedro Motta
 
 🤓Sou um estudante
 
-![](https://media.tenor.com/O1bsGTUge5kAAAAd/johnmarston-reddead.gif)
+![](https://media.tenor.com/RcnheeK0gY4AAAAd/arthur-morgan.gif)
 
 Estou deenvolvendo projetos na plataforma [Alura](https://www.alura.com.br/)
