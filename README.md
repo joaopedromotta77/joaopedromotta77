@@ -7,3 +7,5 @@ Meu nome é João Pedro Motta
 🤓Sou um estudante
 
 ![](https://media.tenor.com/pMhSj9NfCXsAAAAd/saul-goodman-better-call-saul.gif)
+
+[Alura] (https://www.alura.com.br/)
